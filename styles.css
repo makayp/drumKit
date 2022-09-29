@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    background-color: #2a3047;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    color: #e9f2f7;
+    font-size: 5rem;
+    text-shadow: 3px 0 #c82b63;
+    font-family: 'Roboto Slab', serif;
+}
+
+.drum {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    background-color: #ecf1f5;
+    font-size: 5rem;
+    padding: 20px 0 0;
+    margin: 20px 10px;
+    color: #c82b63;
+    border: 10px solid #414b68;
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+    text-shadow: 3px 0 #bedfed;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.container {
+    margin: 150px 0;
+}
+
+footer {
+    color: #d2dadf;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.w {
+    background-image:  url("images/tom1.png");
+}
+
+.a {
+    background-image:  url("images/tom2.png");
+}
+
+.s {
+    background-image:  url("images/tom3.png");
+}
+
+.d {
+    background-image:  url("images/tom4.png");
+}
+
+.j {
+    
+    background-image:  url("images/crash.png");
+}
+
+.k {
+    
+    background-image:  url("images/snare.png");
+}
+
+.l {
+    background-image:  url("images/kick.png");
+}
